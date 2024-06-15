@@ -160,7 +160,7 @@
   section.ceremonia-fiesta .col-ceremonia .anim-anillos,
   section.ceremonia-fiesta .anim-fiesta {
     width: 50%;
-    height: auto;
+    /*height: auto;*/
     max-width: 175px;
   }
 
