@@ -297,8 +297,15 @@
   }
 
   section.instagram .anim-instagram {
-    width: 15%;
-    height: 15%;
+    display: none;
+  }
+
+  section.regalos .anim-regalos {
+    display: none;
+  }
+
+  section.galeria .anim-galeria {
+    display: none;
   }
 
 }
