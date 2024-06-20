@@ -438,7 +438,7 @@ ul.lang-inv li a:hover {
 /* Cuenta regresiva */
 section.cuenta-regresiva {
   position: relative;
-  height: 120px;
+  height: 10px;
   background-color: var(--color-5);
 }
 
