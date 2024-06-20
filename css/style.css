@@ -766,7 +766,7 @@ section.galeria .slick-dots li.slick-active button:before {
 
 section.fiesta {
   background: url('../img/lineas02.svg') center top no-repeat var(--color-5);
-  padding-top: 14%;
+  padding-top: 3%;
   position: relative;
   /*padding-bottom: 265px;*/
 }
