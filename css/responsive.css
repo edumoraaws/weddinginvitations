@@ -98,6 +98,7 @@
 
   section.portada .box-frase-portada {
     margin-top: 25px;
+    display: none;
   }
 
   section.portada::after {
