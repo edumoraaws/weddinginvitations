@@ -94,11 +94,11 @@
   section.portada .box-frase-portada p {
     font-size: 25px;
     line-height: 28px;
+    display: none;
   }
 
   section.portada .box-frase-portada {
     margin-top: 25px;
-    display: none;
   }
 
   section.portada::after {
