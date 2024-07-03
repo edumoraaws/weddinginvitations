@@ -1,5 +1,5 @@
 /* Mobile */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 991px) {
 
   #modalMusica .modal-content p {
     font-size: 50px;
